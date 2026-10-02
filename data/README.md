@@ -4,6 +4,8 @@ This project uses aerial imagery and corresponding building-label masks for buil
 
 The dataset consists of aerial images along with binary segmentation masks identifying building regions. The images are used to train a deep learning segmentation model that detects buildings and subsequently estimates the number of buildings in an image.
 
+## Dataset Link: https://drive.google.com/drive/folders/11AD6MWt0qLFoTW2IbXGpDA1n77GpOpOr?usp=drive_link
+
 ---
 
 ## Dataset Structure
