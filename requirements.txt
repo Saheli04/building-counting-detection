@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+rasterio
+torch
+torchvision
+segmentation-models-pytorch
+tqdm
