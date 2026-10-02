@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Large datasets
+*.tif
+*.tiff
+*.zip
+*.tar
+*.tar.gz
+
+# Google Colab / local files
+/content/
+/mnt/data/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
